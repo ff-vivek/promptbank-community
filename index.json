@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "prompts": [
+    {
+      "name": "code-reviewer",
+      "category": "role",
+      "description": "Expert code reviewer for thorough PR reviews",
+      "author": "ff-vivek",
+      "path": "prompts/role/code-reviewer.json",
+      "tags": ["code", "review", "programming"],
+      "downloads": 0
+    },
+    {
+      "name": "technical-writer",
+      "category": "role",
+      "description": "Technical documentation specialist",
+      "author": "ff-vivek",
+      "path": "prompts/role/technical-writer.json",
+      "tags": ["docs", "writing", "technical"],
+      "downloads": 0
+    },
+    {
+      "name": "debugging-assistant",
+      "category": "skill",
+      "description": "Systematic debugging and troubleshooting",
+      "author": "ff-vivek",
+      "path": "prompts/skill/debugging-assistant.json",
+      "tags": ["debug", "troubleshoot", "programming"],
+      "downloads": 0
+    },
+    {
+      "name": "api-designer",
+      "category": "agent",
+      "description": "REST API design expert",
+      "author": "ff-vivek",
+      "path": "prompts/agent/api-designer.json",
+      "tags": ["api", "rest", "design"],
+      "downloads": 0
+    }
+  ]
+}

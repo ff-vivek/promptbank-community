@@ -36,6 +36,15 @@
       "path": "prompts/agent/api-designer.json",
       "tags": ["api", "rest", "design"],
       "downloads": 0
+    },
+    {
+      "name": "ssde",
+      "category": "role",
+      "description": "Senior software engineer for agentic coding workflows - emphasizes assumption surfacing, scope discipline, and simplicity",
+      "author": "ff-vivek",
+      "path": "prompts/role/ssde.json",
+      "tags": ["coding", "engineering", "agentic", "senior", "software-engineer"],
+      "downloads": 0
     }
   ]
 }

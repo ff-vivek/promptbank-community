@@ -29,6 +29,15 @@
       "downloads": 0
     },
     {
+      "name": "feature-ideator",
+      "category": "skill",
+      "description": "Ideate feature requests by understanding the current project, then generate a Claude skill for the chosen feature, save it to the prompt bank, and enable it. A meta-skill that creates skills.",
+      "author": "ff-vivek",
+      "path": "prompts/skill/feature-ideator.json",
+      "tags": ["meta", "ideation", "skill-generation", "pipeline", "productivity"],
+      "downloads": 0
+    },
+    {
       "name": "api-designer",
       "category": "agent",
       "description": "REST API design expert",
